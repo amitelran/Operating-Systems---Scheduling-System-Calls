@@ -7,7 +7,7 @@ Support of Path environment variable.
 System calls wait and exit implementation.
 Processes scheduling policies implementation.
 
-Running the project:
+Running the project (Terminal commands):
 
 If already patched:
 * git clone http://www.cs.bgu.ac.il/~os172/git/Assignment1
