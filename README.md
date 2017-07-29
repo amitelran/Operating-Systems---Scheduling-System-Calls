@@ -8,6 +8,7 @@ System calls wait and exit implementation.
 Processes scheduling policies implementation.
 
 Running the project:
+
 If already patched:
 * git clone http://www.cs.bgu.ac.il/~os172/git/Assignment1
 * make
