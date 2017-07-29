@@ -17,7 +17,7 @@ If already patched:
 
 If not already patched:
 * git clone http://www.cs.bgu.ac.il/~os172/git/Assignment1
-* git apply 203695067_203751920.patch
+* git apply 203795067_203751920.patch
 * make
 * make clean qemu
 * Shell is opened, can run programs within xv6 (sanity program for testing).
